@@ -268,7 +268,7 @@ if (reviewForm && testimonialsTrack) {
   });
 }
 
-const WHATSAPP_NUMBER = "212666982673";
+const WHATSAPP_NUMBER = "21289941995";
 const ctaWhatsappBtn = document.getElementById("cta-whatsapp-btn");
 
 const buildWhatsappUrl = (messageText) => {
